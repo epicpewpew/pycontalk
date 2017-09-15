@@ -80,6 +80,9 @@ this saves whatever changes you have made in the repository
 
 #### The branch
 
+* * *
+People seem to have more trouble with branch management than anything else.
+
 ### ![](/assets/images/thebranch.png)
 
 **_make one with_**
@@ -170,7 +173,7 @@ see [opensourcesurvey.org](www.opensourcesurvey.org/2017/)
 [roshanijossery.github.io/first-contribution](www.roshanijossery.github.io/first-contribution)
 
 ### [Up-for-grabs](www.up-for-grabs.net)
-### ![up-for-grabs](/assets/images/upforgrabs.png)
+### [![up-for-grabs](/assets/images/upforgrabs.png)](www.up-for-grabs.net)
 
 
 ###### [![codetriage](/assets/images/codetriage.png)](www.codetriage.com)
@@ -193,6 +196,7 @@ Github.              |The Great  Richard Stallman  |To coffees ![cooffee](/asset
 Octocat              |Kent C. Dodds             |  Our International Guests      | Motorhead, JudasPriest, Metallica etc ![metal](/assets/images/metal.png)
 
 * * *
+
 * * *
 #### ![](/assets/images/trollface.png) a note about the author ![metal](/assets/images/metal.png)
 
