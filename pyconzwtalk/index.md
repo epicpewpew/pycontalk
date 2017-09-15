@@ -10,11 +10,11 @@ layout: default
 ### ![git](/assets/images/gitlogo.png)
 ###### runs on your computer
 
-Git is a versioning software crafted by the most gracious and glorious **Linus Torvalds**, BDFL, free software!.
+Git is a versioning software crafted by the most gracious and glorious **Linus Torvalds**, BDFL.
 
 _The guys in marketing will say:_ "Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency."
 
-It helps you manage suffering like:
+IMO, It helps you manage suffering like:
 
 ![suffering](/assets/images/project.png)
 
