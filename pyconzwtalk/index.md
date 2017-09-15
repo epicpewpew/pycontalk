@@ -66,12 +66,14 @@ git add file_1 file_2 file_3
 ### make your changes
 
 I haz no picture for this
+
+### ![](/assets/images/breaking-the-build.gif)
 * * *
 
 
-### commit
+### The commit
 
-this saves whatever changes you have made in the repository
+this saves whatever changes you have made in the repository sort of like the save button in a game.
 
 ```bash
  git commit
@@ -124,9 +126,7 @@ git status
 ```
 #### You can use these friendly tools.
 
-GitHub Desktop
-
-Atom [atom.io](atom.io)
+GitHub Desktop or Atom [atom.io](atom.io)
 
 * * *
 ## ![](/assets/images/crown.png) **Congrats You are now BDFL**  ![](/assets/images/godmode.png)
@@ -175,15 +175,15 @@ see [opensourcesurvey.org](www.opensourcesurvey.org/2017/)
 ### [Up-for-grabs](www.up-for-grabs.net)
 ### [![up-for-grabs](/assets/images/upforgrabs.png)](www.up-for-grabs.net)
 
-### codetriage
+### [codetriage](www.codetriage.com)
 ###### [![codetriage](/assets/images/codetriage.png)](www.codetriage.com)
 
 
-### freecodecamp
+### [freecodecamp](www.freecodecamp.org)
 ### [![freecodecamp.org](/assets/images/freecodecamp.png)](www.freecodecamp.org)
 
 ### [git-scm.com](www.git-scm.com)
-### ![git](/assets/images/gitlogo.png)
+### [![git](/assets/images/gitlogo.png)](www.git-scm.com)
 * * *
 * * *
 #### A thousand thanks - heres a cookie ![](/assets/images/cookie.png)
@@ -195,6 +195,12 @@ To you.              |Brendan Foster - shiftkey |The Organisers      |Justin Rus
 Github.              |The Great  Richard Stallman  |To coffees ![cooffee](/assets/images/coffee.png) |The FOSS community
 Octocat              |Kent C. Dodds             |  Our International Guests      | Motorhead, JudasPriest, Metallica etc ![metal](/assets/images/metal.png)
 
+* * *
+#### To-do list
+
+- [ ] Add a section that talks about open-source licensing
+
+* * *
 * * *
 
 * * *
