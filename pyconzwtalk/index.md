@@ -6,7 +6,8 @@ layout: default
 ---
 # Introductions
 
-### Git ![git](/assets/images/gitlogo.png)
+### Git
+### ![git](/assets/images/gitlogo.png)
 ###### runs on your computer
 
 Git is a versioning software crafted by the most gracious and glorious **Linus Torvalds**, BDFL, free software!.
@@ -17,7 +18,8 @@ It helps you manage suffering like:
 
 ![suffering](/assets/images/project.png)
 
-### GitHub ![octocat](/assets/images/octocat.png)
+### GitHub
+### ![octocat](/assets/images/octocat.png)
 ###### runs in the cloud (somebody elses computer)
 
 GitHub is what you get when techno-anarchists who love open source technology build a community around git.
