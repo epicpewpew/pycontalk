@@ -175,12 +175,12 @@ see [opensourcesurvey.org](www.opensourcesurvey.org/2017/)
 ### [Up-for-grabs](www.up-for-grabs.net)
 ### [![up-for-grabs](/assets/images/upforgrabs.png)](www.up-for-grabs.net)
 
-
+### codetriage
 ###### [![codetriage](/assets/images/codetriage.png)](www.codetriage.com)
-#### codetriage
 
 
-[freecodecamp.org](www.freecodecamp.org)
+### freecodecamp
+### [![freecodecamp.org](/assets/images/freecodecamp.png)](www.freecodecamp.org)
 
 ### [git-scm.com](www.git-scm.com)
 ### ![git](/assets/images/gitlogo.png)
