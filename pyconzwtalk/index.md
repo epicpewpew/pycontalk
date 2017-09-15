@@ -166,7 +166,7 @@ see [opensourcesurvey.org](www.opensourcesurvey.org/2017/)
 * * *
 
 ### Great places for you to start the journey of a thousand commits
------------------------------|--------------------------------------|
+
 [roshanijossery.github.io/first-contribution](www.roshanijossery.github.io/first-contribution)
 
 ### [Up-for-grabs](www.up-for-grabs.net)
@@ -196,4 +196,4 @@ Octocat              |Kent C. Dodds             |  Our International Guests     
 * * *
 #### ![](/assets/images/trollface.png) a note about the author ![metal](/assets/images/metal.png)
 
-Hello, I am Kundai Gwatidzo a recovering undergraduate from the catholic university of zimbabwe[information technology and business management] my hobbies include: drinking unrealistic amounts of the caffiene, listening to metal, screaming about the freedom of information in all its forms, doing information security things, and learning stuff... terrifing stuff. PyConZW is always my birthday present. The internet knows me as @epicpewew. I'm on [Keybase](keybase.io/epicpewpew)
+Hello, I am Kundai Gwatidzo a recovering undergraduate from the catholic university of zimbabwe[information technology and business management] my hobbies include: drinking unrealistic amounts of the caffiene, listening to metal, screaming about the freedom of information in all its forms, doing information security things, and learning stuff... terrifing stuff. PyConZW is always my birthday present. The internet knows me as @epicpewpew. I'm on [Keybase](keybase.io/epicpewpew)
