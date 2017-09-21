@@ -26,7 +26,7 @@ github_username:  epicpewpew
 
 # Build settings
 markdown: kramdown
-theme: jekyll-cayman-theme
+theme: jekyll-theme-cayman
 
 plugins:
   - jekyll-feed
